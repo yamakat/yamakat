@@ -1,6 +1,6 @@
 - 💻 Atualmente trabalho como agilista.
 - 📑 Estou estudando Java, QA, agilidade e Libras.
-- 📌 Quero aprender +++ sobre segurança digital, DevOps e acessibilidade.
+- 📌 Quero aprender +++ sobre segurança digital, criptografia, DevOps e acessibilidade.
 - 🪧 Outros interesses: acessibilidade, literatura, escrita, tradução, bibliotecas, tecnologias, arte.
 - 🔦 Qualquer pronome (inclusive neutros!)
 
